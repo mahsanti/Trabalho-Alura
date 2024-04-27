@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+    }
+    
+    header{
+    background-color: #000e5e;
+    background-image: linear-gradient(#68064f, #ca149d);
+        color: rgb(255, 255, 255);
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 0Px 0;
+    font-size: 50px;
+    }
+    
+    .cabecalho-imagem{
+    width: 30%;
+    }
+    
+    .cabecalho-lista-item{
+        display: inline-block;
+        margin: 0  20px;
+    }
+    
+    .escola-imagem{
+        width: 30%;
+    }
+    
+    .escola{
+    background-image: linear-gradient( #ca149d, #ca149d);
+    }
+    
+    .escola{
+        color: rgb(255, 255, 255);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 20px 0;
+    }
+    
+    .escola-titulo{
+        padding: 25px 0;
+    }
+    .cabecalho-lista-item{
+        color: rgb(255, 255, 255);
+    }
+    
+    .escola-div-conteúdo{
+        width: 35%;
+    }
+    
+    body{ 
+          .poppins-regular {
+            font-family: "Poppins", sans-serif;
+            font-weight: 400;
+            font-style: normal;
+          }
+          
+    }
+    
+    .estudantes{
+    background-image: linear-gradient( #ca149d, #ca149d);
+    color: #ffffff;
+    }
+    
+    .estudante-imagem{
+        width: 300px;
+    }
+    
+    .estudante-icone{
+        width: 50px;
+        padding: 10px 0;
+    }
+    
+    .estudante-div{
+        text-align: justify;
+        margin: 0 25px;
+        padding: 50px 0;
+    }
+    
+    .estudante-titulo{
+        margin: 0 25px;
+        text-align: justify;
+    padding: 10px 0;
+    font-size: 50px;
+    
+    }
+    .estudante-nome{
+        font-size: 40px;
+    }
+    
+    .rodapé{
+        color: #ffffff;
+        background-color: #68064f;
+    background-image: linear-gradient(#ca149d, #68064f);
+    }
+    
+    .rodapé-texto{
+        height: 60px;
+        color: #000000
+        justify-content: space-between;
+        
+    }
+    
